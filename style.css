@@ -83,3 +83,15 @@ section {
     padding: 80px 10px;
   }
 }
+.project-card-box {
+  background-color: #e6f2ff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 20px;
+  transition: box-shadow 0.3s ease;
+}
+
+.project-card-box:hover {
+  box-shadow: 0 4px 20px rgba(0, 119, 204, 0.4);
+}
