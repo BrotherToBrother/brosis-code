@@ -53,3 +53,6 @@ a:hover {
 .navbar a:hover {
   text-decoration: underline;
 }
+section {
+  padding: 100px 20px;
+}
