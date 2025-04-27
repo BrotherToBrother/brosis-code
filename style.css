@@ -36,3 +36,20 @@ a:hover {
   color: #666;
   margin-top: 5px;
 }
+.navbar {
+  background-color: #0077cc;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
