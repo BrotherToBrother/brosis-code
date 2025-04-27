@@ -58,3 +58,10 @@ section {
   margin-top: 50px;
   border-top: 2px solid #ccc; /* adds a little line for separation */
 }
+#about {
+  background-color: #e6f2ff; /* Soft blue */
+}
+
+#projects {
+  background-color: #f9f9f9; /* Soft gray */
+}
