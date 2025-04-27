@@ -65,3 +65,21 @@ section {
 #projects {
   background-color: #f9f9f9; /* Soft gray */
 }
+@media (max-width: 600px) {
+  body {
+    margin: 20px;
+  }
+
+  .logo h1 {
+    font-size: 32px;
+  }
+
+  .navbar a {
+    margin: 0 10px;
+    font-size: 16px;
+  }
+
+  section {
+    padding: 80px 10px;
+  }
+}
